@@ -1,15 +1,5 @@
 @charset "utf-8";
 
-.pcbr{display:block !important;}
-.ptbr{display:block !important;}
-.tbr{display:none !important;}
-.mbr{display:none !important;}
-.pc_view{display:block !important;}
-.pt_view{display:block !important;}
-.tm_view{display:none !important;}
-.t_view{display:none !important;} 
-.m_view{display:none !important;}
-
 body,html,#wrap,#container,#contents,main {width:100%;height: auto;}
 body {background:#e2dfdd;height:100vh;overflow: hidden;}
 body.size {height:auto;overflow:unset;}
